@@ -77,12 +77,12 @@ section{
 .icon-image1{
     width: 5%;
 }
-.skills-title{
+.skills{
     font-size: 0.75rem;
     text-align: center;
     text-transform: uppercase;
     padding:1rem 0.5rem;
-    letter-spacing: 0.02px;
+    /* letter-spacing: 0.02px; */
     color: #f7f7f7;
 }
 .skill-name{
